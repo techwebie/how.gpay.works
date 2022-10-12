@@ -1,7 +1,7 @@
 # How gpay works
 
 
-[![How gpay works](blue.png)](https://github.com/techwebie/how.gpay.works)
+[![How gpay works](blue.png)](https://icncomputer.com/how-gpay-works/)
 
 Google Pay is a digital wallet platform and online payment system developed by Google to power in-app and tap-to-pay purchases on mobile devices, enabling users to make payments with Android phones, tablets, or watches.
 
